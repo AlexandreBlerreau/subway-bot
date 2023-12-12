@@ -1,1 +1,13 @@
 # subway-bot
+Projet d'écoute d'état de la ligne 1 du métro de la métropole lilloise.
+Le code présent date de 4 ans... lors de mes études.
+
+Il y à aujourd'hui beacoup de dépendances à mettre à jour (pour des raison de sécurité) et potentillement la connection à Twitter à revoir.
+Le code est globalement très crado... mais bon j'était étudiant :D.
+
+# Lancement 
+'''Shell
+node index.js
+'''
+# Sqlite 3
+Pensez à initaliser la base.
