@@ -1,0 +1,26 @@
+{
+  "name": "uptimelinge1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.4",
+    "canvas": "^2.4.1",
+    "chart.js": "^2.8.0",
+    "chartjs-node": "^1.7.1",
+    "debug": "^4.1.1",
+    "fs": "0.0.1-security",
+    "jsdom": "^15.0.0",
+    "pkg-config": "^1.1.1",
+    "sqlite3": "^4.0.6",
+    "stream-buffers": "^3.0.2",
+    "twit": "^2.2.11",
+    "webpack": "^4.29.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
