@@ -6,8 +6,9 @@ Il y à aujourd'hui beacoup de dépendances à mettre à jour (pour des raison d
 Le code est globalement très crado... mais bon j'était étudiant :D.
 
 # Lancement 
-'''Shell
+Si c'est votre premier lancement : N'oubliez pas d'installer node sur la machie hôte.
+Dans une ligne de commande :
 node index.js
-'''
+
 # Sqlite 3
 Pensez à initaliser la base.
